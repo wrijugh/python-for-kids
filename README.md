@@ -15,4 +15,4 @@ Because kids are the students, we need an adult person to be around to help fix 
 
 This class will be for 30 minutes each day during the weekends. The delivery will be recorded. So that if revision is required students can go back and watch it again. 
 
-[Next>> Index](index.md)
+<!-- [Next>> Index](index.md) -->
