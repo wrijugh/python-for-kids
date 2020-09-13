@@ -13,6 +13,6 @@ This is an open source courseware,  anyone is free to use the content for non co
 ## Expectations from the adult seniors around the Kid attending the course. 
 Because kids are the students, we need an adult person to be around to help fix the technical problems like internet connectivity, tool usage and the basic installation process. I will share the steps to create or set up the environment for this class.
 
-This class will be E for 30 minutes each day during the weekends. The delivery will be recorded. So that if revision is required students can go back and watch it again. 
+This class will be for 30 minutes each day during the weekends. The delivery will be recorded. So that if revision is required students can go back and watch it again. 
 
 [Next>> Index](index.md)
