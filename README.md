@@ -1,9 +1,5 @@
 # Python for Kid 
 
-## Index
-- [Introduction](#Introduction)
-- [Day 0 : Setting up the PC](day1.md)
-
 ## Introduction
 Welcome to my class of **Learning Programming for Kids with Python**.  Let me talk about it and share how I have planned it to execute. We have a daughter of 11 year old and after her exam we’ve introduced her to the website code.org. After spending a couple of days going through the challenges she showed the interest in the basics of programming language. When the code.org was complete I was looking for how educators tackle this subject. Mostly they pick up one programming language and teach the basics. There are quite a lot of courses available. I have tried to study how they define the content and deliver it. 
 
@@ -17,4 +13,4 @@ Because kids are the students, we need an adult person to be around to help fix 
 
 This class will be E for 30 minutes each day during the weekends. The delivery will be recorded. So that if revision is required students can go back and watch it again. 
 
-
+[Index](index.md)
