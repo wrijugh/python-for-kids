@@ -16,7 +16,7 @@ Website Link [https://wrijugh.github.io/python-for-kids/](https://wrijugh.github
 - [Day 2 : Using Variable](02-day02.md)
 - [Day 3 : Few other Data Types](03-day03.md)
 - [Day 4 : Playing with Numbers](04-day04.md)
-- [Day 5 : TODO](05-day05.md)
+- [Day 5 : Adding two Text variables](05-day05.md)
 - [Day 6 : TODO](06-day06.md)
 - [Day 7 : TODO](07-day07.md)
 - [Day 8 : TODO](08-day08.md)
@@ -61,7 +61,7 @@ As a parent/guardian please decide if you kid is ready for it. Check with [code.
 
 Contact me via my Twitter [@wrijugh](https://twitter.com/wrijugh)
 
-Subscribe to the [YouTube Channel](https://www.youtube.com/playlist?list=PLH60I37xI-jmDGHF1S_2ld5Gb7x0tP0Fp) for **KidsCoding**.
+Subscribe to the [YouTube Channel](https://www.youtube.com/playlist?list=PLH60I37xI-jmDGHF1S_2ld5Gb7x0tP0Fp) for **CodingKids**.
 
 [Next: Day 0](00-00-day00.md)
 
