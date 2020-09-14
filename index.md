@@ -7,8 +7,8 @@
 ## Index
 
 - [Introduction](#introduction)
-- [Day 0 : Setting up the PC](00-day0.md)
-- [Day 1 : Beginning](01-day1.md)
+- [Day 0 : Setting up the PC](00-day00.md)
+- [Day 1 : Beginning](01-day01.md)
 - [Day 2 : Using Variable](02-day02.md)
 - [Day 3 : TODO](04-day03.md)
 - [Day 4 : TODO](04-day04.md)
