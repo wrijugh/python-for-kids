@@ -35,6 +35,10 @@ Because kids are the students, we need an adult person to be around to help fix 
 
 This class will be for 30 minutes each day during the weekends. The delivery will be recorded. So that if revision is required students can go back and watch it again.
 
+## Disclaimer
+
+As a parent/guardian please decide if you kid is ready for it. Check with [code.org](http://code.org) if your kid has a natural interest. I would highly recommend you decide on this aspect. 
+
 ### Contact
 
 Contact me via my Twitter [@wrijugh](https://twitter.com/wrijugh)
