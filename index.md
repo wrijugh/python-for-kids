@@ -1,8 +1,12 @@
-# Python for Kid
+# Python for Kids
+
+An Open Source study material built for kids.
 
 ## Website
 
-[https://wrijugh.github.io/python-for-kids/](https://wrijugh.github.io/python-for-kids/)
+Website Link [https://wrijugh.github.io/python-for-kids/](https://wrijugh.github.io/python-for-kids/)
+
+[GitHub Repository](https://github.com/wrijugh/python-for-kids)
 
 ## Index
 
@@ -10,7 +14,7 @@
 - [Day 0 : Setting up the PC](00-day00.md)
 - [Day 1 : Beginning](01-day01.md)
 - [Day 2 : Using Variable](02-day02.md)
-- [Day 3 : TODO](04-day03.md)
+- [Day 3 : TODO](03-day03.md)
 - [Day 4 : TODO](04-day04.md)
 - [Day 5 : TODO](05-day05.md)
 
