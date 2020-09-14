@@ -1,6 +1,5 @@
-echo "\n================\n \Git: add -> commit -> push \n==================\n"
-
+echo "========Git: add -> commit -> push========="
 
 git add *
-git commit -m "This is through bash %date%-%time%"
+git commit -m "A BAT file committed on %date%-%time%"
 git push
