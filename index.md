@@ -38,3 +38,5 @@ This class will be for 30 minutes each day during the weekends. The delivery wil
 ### Contact
 
 Contact me via my Twitter [@wrijugh](https://twitter.com/wrijugh)
+
+Subscribe to the [YouTube Channel](https://www.youtube.com/playlist?list=PLH60I37xI-jmDGHF1S_2ld5Gb7x0tP0Fp) for **KidsCoding**.
