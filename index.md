@@ -14,11 +14,17 @@ Website Link [https://wrijugh.github.io/python-for-kids/](https://wrijugh.github
 - [Day 0 : Setting up the PC](00-day00.md)
 - [Day 1 : Beginning](01-day01.md)
 - [Day 2 : Using Variable](02-day02.md)
-- [Day 3 : TODO](03-day03.md)
-- [Day 4 : TODO](04-day04.md)
+- [Day 3 : Few other Data Types](03-day03.md)
+- [Day 4 : Playing with Numbers](04-day04.md)
 - [Day 5 : TODO](05-day05.md)
+- [Day 6 : TODO](06-day06.md)
+- [Day 7 : TODO](07-day07.md)
+- [Day 8 : TODO](08-day08.md)
 
 <!--
+> Using Editor (Installing VS Code and Python and Configuring it)
+> 
+> Commenting the code 
 # Disucuss about Setting VS Code with Python 
 # Record videos for all the modules. 
 -->
@@ -39,6 +45,14 @@ Because kids are the students, we need an adult person to be around to help fix 
 
 This class will be for 30 minutes each day during the weekends. The delivery will be recorded. So that if revision is required students can go back and watch it again.
 
+## A bit of History
+
+During Covid-19 lockdown my 10-year-old daughter finished her class after the final exam. We had a lot of planning which included visiting our hometown and then a lot of other summer activities were planned. We could not do any. Our nice little daughter kind of adjusted to the new normal. However, full of energy to burn out. I decided to let her explore [code.org](http://code.org) and she really enjoyed and finished all of them. Then I was in search of what to teach. As a developer I got an exposure to learn few programming languages and out of all I've picked up **Python** because of its sheer simplicity. Rather than jumping into a lot of object oriented ornaments, it gives the script like experience with all modern programing language constructs. That is why it the popular programming language in colleges.
+
+## In memory of
+
+I am a son of a legendary teacher who has many fan following. I wanted to dedicate this to my Dad.
+
 ## Disclaimer
 
 As a parent/guardian please decide if you kid is ready for it. Check with [code.org](http://code.org) if your kid has a natural interest. I would highly recommend you decide on this aspect. 
@@ -48,3 +62,7 @@ As a parent/guardian please decide if you kid is ready for it. Check with [code.
 Contact me via my Twitter [@wrijugh](https://twitter.com/wrijugh)
 
 Subscribe to the [YouTube Channel](https://www.youtube.com/playlist?list=PLH60I37xI-jmDGHF1S_2ld5Gb7x0tP0Fp) for **KidsCoding**.
+
+[Next: Day 0](00-00-day00.md)
+
+[Top](#index)
