@@ -14,6 +14,11 @@
 - [Day 4 : TODO](04-day04.md)
 - [Day 5 : TODO](05-day05.md)
 
+<!--
+# Disucuss about Setting VS Code with Python 
+# Record videos for all the modules. 
+-->
+
 ## Introduction
 
 Welcome to my class of **Learning Programming for Kids with Python**.  Let me talk about it and share how I have planned it to execute. We have a daughter of 11 year old and after her exam we’ve introduced her to the website code.org. After spending a couple of days going through the challenges she showed the interest in the basics of programming language. When the code.org was complete I was looking for how educators tackle this subject. Mostly they pick up one programming language and teach the basics. There are quite a lot of courses available. I have tried to study how they define the content and deliver it.
