@@ -11,20 +11,18 @@ Website Link [https://wrijugh.github.io/python-for-kids/](https://wrijugh.github
 ## Index
 
 - [Introduction](#introduction)
-- [Day 0 : Setting up the PC](00-day00.md)
-- [Day 1 : Beginning](01-day01.md)
-- [Day 2 : Using Variable](02-day02.md)
-- [Day 3 : Few other Data Types](03-day03.md)
-- [Day 4 : Playing with Numbers](04-day04.md)
-- [Day 5 : Adding two Text variables](05-day05.md)
-- [Day 6 : TODO](06-day06.md)
-- [Day 7 : TODO](07-day07.md)
-- [Day 8 : TODO](08-day08.md)
-- [Day 9 : TODO](09-day09.md)
+- [Day 00 : Setting up the PC](00-day00.md)
+- [Day 01 : Beginning](01-day01.md)
+- [Day 02 : Using Variable](02-day02.md)
+- [Day 03 : Few other Data Types](03-day03.md)
+- [Day 04 : Playing with Numbers](04-day04.md)
+- [Day 05 : Adding two Text variables](05-day05.md)
+- [Day 06 : TODO](06-day06.md)
+- [Day 07 : TODO](07-day07.md)
+- [Day 08 : TODO](08-day08.md)
+- [Day 09 : TODO](09-day09.md)
 - [Day 10 : TODO](10-day10.md)
-<!-- 
-- [Day 11 : TODO](11-day11.md) 
--->
+<!-- - [Day 11 : TODO](11-day11.md) -->
 
 <!--
 > Using Editor (Installing VS Code and Python and Configuring it)
