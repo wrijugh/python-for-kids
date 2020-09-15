@@ -20,6 +20,11 @@ Website Link [https://wrijugh.github.io/python-for-kids/](https://wrijugh.github
 - [Day 6 : TODO](06-day06.md)
 - [Day 7 : TODO](07-day07.md)
 - [Day 8 : TODO](08-day08.md)
+- [Day 9 : TODO](09-day09.md)
+- [Day 10 : TODO](10-day10.md)
+<!-- 
+- [Day 11 : TODO](11-day11.md) 
+-->
 
 <!--
 > Using Editor (Installing VS Code and Python and Configuring it)
@@ -61,7 +66,8 @@ As a parent/guardian please decide if you kid is ready for it. Check with [code.
 
 Contact me via my Twitter [@wrijugh](https://twitter.com/wrijugh)
 
-Subscribe to the [YouTube Channel](https://www.youtube.com/playlist?list=PLH60I37xI-jmDGHF1S_2ld5Gb7x0tP0Fp) for **Cod
+Subscribe to the [YouTube Channel](https://www.youtube.com/playlist?list=PLH60I37xI-jmDGHF1S_2ld5Gb7x0tP0Fp) for **CodingKids**
+
 [Next: Day 0](00-day00.md)
 
 [Top](#index)
