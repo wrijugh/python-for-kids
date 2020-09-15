@@ -61,8 +61,7 @@ As a parent/guardian please decide if you kid is ready for it. Check with [code.
 
 Contact me via my Twitter [@wrijugh](https://twitter.com/wrijugh)
 
-Subscribe to the [YouTube Channel](https://www.youtube.com/playlist?list=PLH60I37xI-jmDGHF1S_2ld5Gb7x0tP0Fp) for **CodingKids**.
-
-[Next: Day 0](00-00-day00.md)
+Subscribe to the [YouTube Channel](https://www.youtube.com/playlist?list=PLH60I37xI-jmDGHF1S_2ld5Gb7x0tP0Fp) for **Cod
+[Next: Day 0](00-day00.md)
 
 [Top](#index)
