@@ -18,7 +18,7 @@ Website Link [https://wrijugh.github.io/python-for-kids/](https://wrijugh.github
 - [Day 04 : Playing with Numbers](04-day04.md)
 - [Day 05 : Adding two Text variables](05-day05.md)
 - [Day 06 : Working with VS Code](06-day06.md)
-- [Day 07 : TODO](07-day07.md)
+- [Day 07 : String in details](07-day07.md)
 - [Day 08 : TODO](08-day08.md)
 - [Day 09 : TODO](09-day09.md)
 - [Day 10 : TODO](10-day10.md)
@@ -68,6 +68,6 @@ Subscribe to the [YouTube Channel](https://www.youtube.com/playlist?list=PLH60I3
 
 ---
 
-[Next: Day 0](00-day00.m)
+[Next: Day 0](00-day00.md)
 
 [Top](#index)
