@@ -19,9 +19,13 @@ Website Link [https://wrijugh.github.io/python-for-kids/](https://wrijugh.github
 - [Day 05 : Adding two Text variables](05-day05.md)
 - [Day 06 : Working with VS Code](06-day06.md)
 - [Day 07 : String in details](07-day07.md)
-- [Day 08 : Boolean : True/False Value](08-day08.md)
+- [Day 08 : Boolean - True/False Value](08-day08.md)
 - [Day 09 : TODO](09-day09.md)
 - [Day 10 : TODO](10-day10.md)
+- [Day 11 : TODO](11-day10.md)
+- [Day 12 : TODO](12-day10.md)
+- [Day 13 : TODO](13-day10.md)
+- [Day 14 : TODO](14-day10.md)
 <!-- - [Day 11 : TODO](11-day11.md) -->
 
 <!--
