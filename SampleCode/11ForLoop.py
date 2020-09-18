@@ -19,7 +19,7 @@ print (7 * num)
 
 # Multiplication Table in Intelligent way
 num = 5
-allNums = {1,2,3,4,5,6,7,9,9,10}
+allNums = {1,2,3,4,5,6,7,8,9,10}
 for i in allNums:
     print(i * num)
 
