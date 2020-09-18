@@ -62,7 +62,7 @@ I am a son of a legendary teacher who has many fan following. I wanted to dedica
 
 ## Disclaimer
 
-As a parent/guardian please decide if you kid is ready for it. Check with [code.org](http://code.org) if your kid has a natural interest. I would highly recommend you decide on this aspect. 
+As a parent/guardian please decide if you kid is ready for it. Check with [code.org](http://code.org) if your kid has a natural interest. I would highly recommend you decide on this aspect.
 
 ### Contact
 
