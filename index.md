@@ -22,10 +22,10 @@ Website Link [https://wrijugh.github.io/python-for-kids/](https://wrijugh.github
 - [Day 08 : Boolean - True/False Value](08-day08.md)
 - [Day 09 : Condition (if...else...)](09-day09.md)
 - [Day 10 : Collections Data Type](10-day10.md)
-- [Day 11 : Loop - for](11-day10.md)
-- [Day 12 : TODO](12-day10.md)
-- [Day 13 : TODO](13-day10.md)
-- [Day 14 : TODO](14-day10.md)
+- [Day 11 : Loop - for](11-day11.md)
+- [Day 12 : TODO](12-day12.md)
+- [Day 13 : TODO](13-day13.md)
+- [Day 14 : TODO](14-day14.md)
 <!-- - [Day 11 : TODO](11-day11.md) -->
 
 <!--
