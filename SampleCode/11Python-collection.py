@@ -1,44 +1,18 @@
-# Day 11 - Collections
-
-In **Python** we have few data types for **collections**,
-
-- List
-- Tuple
-- Dictionary
-- Set
-
-Sometimes these kind of collections are also known as **array**. So if you hear the term **array** then it means a kind of collection.
-
-## List
-
-```python
 # List (ordered and changeable) [allow duplocate]
 theList = ["cycle", "scooter", "car"]
 print(theList)
 print(type(theList)) #<class 'list'>
-```
 
-## Tuple
-
-```python
 # Tuple (ordered and unchangeable) [allow duplicate]
 theTuple = ("cycle", "scooter", "car")
 print(theTuple)
 print(type(theTuple)) #<class 'tuple'>
-```
 
-## Set
-
-```python
 # Set (unordered and unindexed) [NO duplicate]
 theSet = {"cycle", "scooter", "car"}
 print(theSet)
 print(type(theSet)) #<class 'set'>
-```
 
-## Dictionary
-
-```python
 # Dictionary (unordered, changeable and indexed) [NO duplicate]
 theDictionary = {
     "1": "Wriju",
@@ -47,19 +21,4 @@ theDictionary = {
 }
 print(theDictionary)
 print(type(theDictionary)) #<class 'dict'>
-```
 
-<!--
-## Watch the video
-
-[Video link](https://www.youtube.com/watch?v=)
--->
-
-## Day 11 - Excercise
-
-1. Try all the options above with differnt combinations of words. Practice again and again.
-
----
-[Next: Day 12](12-day12.md)
-
-[Back to Index](index.md)
