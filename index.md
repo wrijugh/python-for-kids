@@ -14,7 +14,7 @@
 - [Day 10 : Collections Data Type](10-day10.md)
 - [Day 11 : Loop - for](11-day11.md)
 - [Day 12 : Loop - While](12-day12.md)
-- [Day 13 : Fuction](13-day13.md)
+- [Day 13 : Function](13-day13.md)
 - [Day 14 : Errors or Exceptions](14-day14.md)
 - [Day 15 : TODO](15-day15.md)
 - [Day 16 : TODO](16-day16.md)
