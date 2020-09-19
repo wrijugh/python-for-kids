@@ -13,11 +13,15 @@
 - [Day 09 : Condition (if...else...)](09-day09.md)
 - [Day 10 : Collections Data Type](10-day10.md)
 - [Day 11 : Loop - for](11-day11.md)
-- [Day 12 : TODO](12-day12.md)
-- [Day 13 : TODO](13-day13.md)
-- [Day 14 : TODO](14-day14.md)
+- [Day 12 : Loop - While](12-day12.md)
+- [Day 13 : Fuction](13-day13.md)
+- [Day 14 : Errors or Exceptions](14-day14.md)
 - [Day 15 : TODO](15-day15.md)
 - [Day 16 : TODO](16-day16.md)
+- [Day 17 : TODO](17-day17.md)
+- [Day 18 : TODO]("")
+- [Day 19 : TODO]("")
+- [Day 20 : TODO]("")
 <!-- - [Day 11 : TODO](11-day11.md) -->
 
 ## Website
