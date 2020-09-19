@@ -6,15 +6,23 @@
 # Git Repo      :   https://github/wrijugh/python-for-kids
 # ============================================================
 
-i = 1
+n = 1
+while n < 11:
+    print(n)
+    n+=1
 
-# while i < 11:
-#     #print(i)
-#     i+=1
+i = 1
+blnFlag = True
+while blnFlag:
+    print(i)
+    if(i == 10):
+        blnFlag = False
+    i+=1
 
 j = 1
 while (j < 10):
-    if(j == 5): break
-else:
-    print(j)
-j+=1
+    if(j == 5): 
+        break
+    else:
+        print(j)
+    j+=1
