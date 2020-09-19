@@ -1,6 +1,5 @@
 # ============================================================
-# The Code Example for 
-# Day 11 - For Loop
+# Sample        :   Day 11 - For Loop
 # By            :   Wriju Ghosh
 # Created On    :   18-Sept-2020
 # Last Updated  :   

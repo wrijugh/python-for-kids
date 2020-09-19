@@ -1,9 +1,9 @@
 # ============================================================
-# The Code Example for Day 7 - Strings in Detail
+# Sample        :   Day 7 - Strings in Detail
 # By            :   Wriju Ghosh
 # Created On    :   16-Sept-2020
 # Last Updated  :   17-Sept-2020
-# Git Repo      :   https://github/wrijugh/python-for-kids
+# Git Repo      :   https://github.com/wrijugh/python-for-kids
 # ============================================================
 s = "Hello World"
 # all upper or capital

@@ -1,10 +1,9 @@
 # ============================================================
-# The Code Example 
-# Day 10 - Python Collections
+# Sample        :   Day 10 - Python Collections
 # By            :   Wriju Ghosh
 # Created On    :   18-Sept-2020
 # Last Updated  :   18-Sept-2020
-# Git Repo      :   https://github/wrijugh/python-for-kids
+# Git Repo      :   https://github.com/wrijugh/python-for-kids
 # ============================================================
 
 # List (ordered and changeable) [allow duplocate]
