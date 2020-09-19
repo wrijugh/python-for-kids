@@ -1,10 +1,6 @@
-# Python for Kids
+# Index
 
-An Open Source study material built for kids.
-
-## Index
-
-- [Introduction](00-00-anIntro.md)
+- [Introduction](00-anIntro.md)
 - [Day 00 : Setting up the PC](00-day00.md)
 - [Day 01 : Beginning](01-day01.md)
 - [Day 02 : Using Variable](02-day02.md)
