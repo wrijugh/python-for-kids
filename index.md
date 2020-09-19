@@ -4,7 +4,7 @@ An Open Source study material built for kids.
 
 ## Index
 
-- [Introduction](#introduction)
+- [Introduction](00-00-anIntro.md)
 - [Day 00 : Setting up the PC](00-day00.md)
 - [Day 01 : Beginning](01-day01.md)
 - [Day 02 : Using Variable](02-day02.md)
@@ -20,6 +20,8 @@ An Open Source study material built for kids.
 - [Day 12 : TODO](12-day12.md)
 - [Day 13 : TODO](13-day13.md)
 - [Day 14 : TODO](14-day14.md)
+- [Day 15 : TODO](15-day15.md)
+- [Day 16 : TODO](16-day16.md)
 <!-- - [Day 11 : TODO](11-day11.md) -->
 
 ## Website
@@ -29,14 +31,6 @@ Website Link [https://wrijugh.github.io/python-for-kids/](https://wrijugh.github
 [GitHub Repository](https://github.com/wrijugh/python-for-kids)
 
 Subscribe to the [YouTube Channel](https://www.youtube.com/playlist?list=PLH60I37xI-jmDGHF1S_2ld5Gb7x0tP0Fp) for **CodingKids**
-
-<!--
-> Using Editor (Installing VS Code and Python and Configuring it)
-> 
-> Commenting the code 
-# Disucuss about Setting VS Code with Python 
-# Record videos for all the modules. 
--->
 
 ---
 
