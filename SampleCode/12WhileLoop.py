@@ -26,3 +26,11 @@ while (j < 10):
     else:
         print(j)
     j+=1
+
+k = 1
+while (k<10):
+    if k != 9:
+        pass
+    else:
+        print(k)
+    k +=1
