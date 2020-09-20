@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to my class of **Learning Programming for Kids with Python**.  Let me talk about it and share how I have planned it to execute. We have a daughter of 11 year old and after her exam we’ve introduced her to the website code.org. After spending a couple of days going through the challenges she showed the interest in the basics of programming language. When the code.org was complete I was looking for how educators tackle this subject. Mostly they pick up one programming language and teach the basics. There are quite a lot of courses available. I have tried to study how they define the content and deliver it.
+Welcome to my class of **Learning Programming for Studnets with Python**.  Let me talk about it and share how I have planned it to execute. We have a daughter of 11 year old and after her exam we’ve introduced her to the website code.org. After spending a couple of days going through the challenges she showed the interest in the basics of programming language. When the code.org was complete I was looking for how educators tackle this subject. Mostly they pick up one programming language and teach the basics. There are quite a lot of courses available. I have tried to study how they define the content and deliver it.
 
 I have defined it to keep each class concise  and exercise driven. Because of the current situation the class can only happen online. The practical problem of online classes are, as students will not be able to use a single laptop/desktop in a single screen to watch and follow at the same time. This is difficult to do, so I wanted to make it an interactive session in a sense when I talk about it - I will explain the subject with analogy.
 
@@ -34,9 +34,9 @@ Contact me via my Twitter [@wrijugh](https://twitter.com/wrijugh)
 
 Website Link [https://wrijugh.github.io/python-for-kids/](https://wrijugh.github.io/python-for-kids/)
 
-[GitHub Repository](https://github.com/wrijugh/python-for-kids)
+GitHub Repository [https://github.com/wrijugh/python-for-kids](https://github.com/wrijugh/python-for-kids)
 
-Subscribe to the [YouTube Channel](https://www.youtube.com/playlist?list=PLH60I37xI-jmDGHF1S_2ld5Gb7x0tP0Fp) for **CodingKids**
+Subscribe to the [YouTube Channel](https://www.youtube.com/playlist?list=PLH60I37xI-jmDGHF1S_2ld5Gb7x0tP0Fp)
 
 ---
 

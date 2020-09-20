@@ -19,10 +19,16 @@
 - [Day 15 : TODO](15-day15.md)
 - [Day 16 : TODO](16-day16.md)
 - [Day 17 : TODO](17-day17.md)
-- [Day 18 : TODO]("")
-- [Day 19 : TODO]("")
-- [Day 20 : TODO]("")
-<!-- - [Day 11 : TODO](11-day11.md) -->
+- [Day 18 : TODO](18-day18.md)
+- [Day 19 : TODO](19-day19.md)
+- [Day 20 : Python Learning Resources](20-day20.md)
+
+<!--
+    Comment
+    Module, 
+    User Input, 
+    Class 
+    Putting it together by making a calc -->
 
 ## Website
 
@@ -35,5 +41,7 @@ Subscribe to the [YouTube Channel](https://www.youtube.com/playlist?list=PLH60I3
 ---
 
 [Next: Day 0](00-day00.md)
+
+[Introduction](00-00-anIntro.md)
 
 [Top](#index)
