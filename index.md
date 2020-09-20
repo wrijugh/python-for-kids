@@ -42,6 +42,6 @@ Subscribe to the [YouTube Channel](https://www.youtube.com/playlist?list=PLH60I3
 
 [Next: Day 0](00-day00.md)
 
-[Introduction](00-00-anIntro.md)
+[Introduction](00-anIntro.md)
 
 [Top](#index)
