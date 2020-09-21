@@ -16,7 +16,7 @@
 - [Day 12 : Loop - While](12-day12.md)
 - [Day 13 : Function](13-day13.md)
 - [Day 14 : Errors or Exceptions](14-day14.md)
-- [Day 15 : TODO](15-day15.md)
+- [Day 15 : Commenting Code](15-day15.md)
 - [Day 16 : TODO](16-day16.md)
 - [Day 17 : TODO](17-day17.md)
 - [Day 18 : TODO](18-day18.md)
@@ -24,7 +24,6 @@
 - [Day 20 : Python Learning Resources](20-day20.md)
 
 <!--
-    Comment
     Module, 
     User Input, 
     Class 
