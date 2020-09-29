@@ -18,7 +18,7 @@
 - [Day 14 : Errors or Exceptions](14-day14.md)
 - [Day 15 : Commenting Code](15-day15.md)
 - [Day 16 : User Input](16-day16.md)
-- [Day 17 : Coming soon...](17-day17.md)
+- [Day 17 : Using Module](17-day17.md)
 - [Day 18 : Coming soon...](18-day18.md)
 - [Day 19 : Coming soon...](19-day19.md)
 - [Day 20 : Python Learning Resources](20-day20.md)
