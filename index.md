@@ -20,14 +20,14 @@
 - [Day 16 : User Input](16-day16.md)
 - [Day 17 : Using Module](17-day17.md)
 - [Day 18 : Class](18-day18.md)
-- [Day 19 : Coming soon...](19-day19.md)
+- [Day 19 : Putting it together](19-day19.md)
 - [Day 20 : Python Learning Resources](20-day20.md)
 
 <!--
     Class 
     Putting it together by making a calc -->
 
-## Website
+## Websites
 
 Website Link [https://wrijugh.github.io/python-for-kids/](https://wrijugh.github.io/python-for-kids/)
 
