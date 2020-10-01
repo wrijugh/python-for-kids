@@ -19,14 +19,11 @@
 - [Day 15 : Commenting Code](15-day15.md)
 - [Day 16 : User Input](16-day16.md)
 - [Day 17 : Using Module](17-day17.md)
-- [Day 18 : Coming soon...](18-day18.md)
-- [Day 19 : Coming soon.s..](19-day19.md)
+- [Day 18 : Class](18-day18.md)
+- [Day 19 : Coming soon...](19-day19.md)
 - [Day 20 : Python Learning Resources](20-day20.md)
 
 <!--
-    User Input,
-    Module, 
-     
     Class 
     Putting it together by making a calc -->
 
