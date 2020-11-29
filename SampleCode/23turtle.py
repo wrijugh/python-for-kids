@@ -1,10 +1,8 @@
 import turtle
+turtle.color("red", "yellow")
 
-for i in range(2):
-    turtle.forward(200)
-    turtle.right(90) 
-
-    turtle.forward(100)
-    turtle.right(90)
+turtle.begin_fill()
+turtle.circle(120)
+turtle.end_fill()
 
 turtle.done()
