@@ -23,6 +23,12 @@
 - [Day 19 : Putting it together](19-day19.md)
 - [Day 20 : Python Learning Resources](20-day20.md)
 
+## Extras
+
+ - [Day 21 : Writing to a File](21-day21.md)
+ - [Day 22 : Reading from a File](22-day22.md)
+ - [Day 23 : Graphics with Turtle](23-day23.md)
+ <!-- - [Day 24 : Lambda](24.day24.md) -->
 <!--
     Class 
     Putting it together by making a calc -->
