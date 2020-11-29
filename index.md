@@ -1,5 +1,7 @@
 # Index
 
+## Python Programming Fundamentals
+
 - [Introduction](00-anIntro.md)
 - [Day 00 : Setting up the PC](00-day00.md)
 - [Day 01 : Beginning](01-day01.md)
@@ -23,10 +25,10 @@
 - [Day 19 : Putting it together](19-day19.md)
 - [Day 20 : Python Learning Resources](20-day20.md)
 
-## Files
+## Working with Files
  - [Day 21 : Writing to a File](21-day21.md)
  - [Day 22 : Reading from a File](22-day22.md)
-## Turtle
+## Grapics with Turtle
  - [Day 23 : Graphics with Turtle](23-day23.md)
  - [Day 24 : Turtle - Flower with Circle](24-day24.md)
  - [Day 25 : Turtle - Pattern with Rectangle](25-day25.md)
