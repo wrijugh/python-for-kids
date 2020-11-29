@@ -30,7 +30,7 @@
  - [Day 21 : Writing to a File](21-day21.md)
  - [Day 22 : Reading from a File](22-day22.md)
 
-## Grapics with Turtle
+## Graphics with Turtle
 
  - [Day 23 : Graphics with Turtle](23-day23.md)
  - [Day 24 : Turtle - Flower with Circle](24-day24.md)
