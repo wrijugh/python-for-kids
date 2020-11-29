@@ -26,9 +26,12 @@
 - [Day 20 : Python Learning Resources](20-day20.md)
 
 ## Working with Files
+
  - [Day 21 : Writing to a File](21-day21.md)
  - [Day 22 : Reading from a File](22-day22.md)
+
 ## Grapics with Turtle
+
  - [Day 23 : Graphics with Turtle](23-day23.md)
  - [Day 24 : Turtle - Flower with Circle](24-day24.md)
  - [Day 25 : Turtle - Pattern with Rectangle](25-day25.md)
