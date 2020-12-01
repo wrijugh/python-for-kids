@@ -38,12 +38,14 @@
  - [Day 26 : Turtle - Multicolor Pattern](26-day26.md)
  - [Day 27 : Turtle - A Video Demonstration](27-day27.md)
 
+## Problems and Solutions
+
+ - [Day 28 : Find Smallest and Largest number(s) from a collection](28-day28.md)
+  
 <!-- 
- - [Day 28 : Title](28-day28.md)
  - [Day 29 : Title](29-day29.md)
  - [Day 30 : Title](30-day30.md) 
 -->
-
 <!--
     Class 
     Putting it together by making a calc -->
