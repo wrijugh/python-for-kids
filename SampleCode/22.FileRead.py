@@ -4,6 +4,7 @@ filename = "C:\\temp\\myfile.txt"
 # print(line)
 # Open file to Read 
 f=open(filename,"r")
+line = f.read(100) #read 100 letters 
 
 # lines = f.read()
 # print(lines)

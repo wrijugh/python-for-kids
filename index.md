@@ -36,11 +36,18 @@
  - [Day 24 : Turtle - Flower with Circle](24-day24.md)
  - [Day 25 : Turtle - Pattern with Rectangle](25-day25.md)
  - [Day 26 : Turtle - Multicolor Pattern](26-day26.md)
-  
+ - [Day 27 : Turtle - A Video Demonstration](27-day27.md)
+
+<!-- 
+ - [Day 28 : Title](28-day28.md)
+ - [Day 29 : Title](29-day29.md)
+ - [Day 30 : Title](30-day30.md) 
+-->
+
 <!--
     Class 
     Putting it together by making a calc -->
-
+---
 ## Websites
 
 Website Link [https://wrijugh.github.io/python-for-kids/](https://wrijugh.github.io/python-for-kids/)
