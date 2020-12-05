@@ -1,8 +1,8 @@
 # Introduction
 
-Welcome to my class of **Learning Programming for Studnets with Python**.  Let me talk about it and share how I have planned it to execute. We have a daughter of 11 year old and after her exam we’ve introduced her to the website code.org. After spending a couple of days going through the challenges she showed the interest in the basics of programming language. When the code.org was complete I was looking for how educators tackle this subject. Mostly they pick up one programming language and teach the basics. There are quite a lot of courses available. I have tried to study how they define the content and deliver it.
+Welcome to my class of **Learning Programming for Studnets with Python**.  Let me talk about it and share how I have planned it to execute. We have a daughter of 11 year old and after her exam we’ve introduced her to the website [code.org](http;://code.). After spending a couple of days going through the challenges she showed the interest in the basics of programming language. When the code.org was complete, I was looking for how educators tackle this subject. Mostly they pick up one programming language and teach the basics. There are quite a lot of courses available. I have tried to study how they define the content and deliver it.
 
-I have defined it to keep each class concise  and exercise driven. Because of the current situation the class can only happen online. The practical problem of online classes are, as students will not be able to use a single laptop/desktop in a single screen to watch and follow at the same time. This is difficult to do, so I wanted to make it an interactive session in a sense when I talk about it - I will explain the subject with analogy.
+I have defined it to keep each class concise and exercise driven. Because of the current situation the class can only happen online. The practical problem of online classes are, as students will not be able to use a single laptop/desktop in a single screen to watch and follow at the same time. This is difficult to do, so I wanted to make it an interactive session in a sense when I talk about it - I will explain the subject with analogy.
 
 ## License
 
@@ -20,11 +20,11 @@ During Covid-19 lockdown my 10-year-old daughter finished her class after the fi
 
 ## In memory of
 
-I am a son of a legendary teacher who has many fan following. I wanted to dedicate this to my Dad.
+I am a son of a legendary teacher who has many fan following. I wanted to dedicate this to my Dad Mr. Debajyoti Ghosh. He was an unparalled teacher with many amazing students.
 
 ## Disclaimer
 
-As a parent/guardian please decide if you kid is ready for it. Check with [code.org](http://code.org) if your kid has a natural interest. I would highly recommend you decide on this aspect.
+As a parent/guardian please decide if you kid is ready for it. Check with [code.org](http://code.org) if your kid has a natural interest. I would highly recommend you decide on this aspect. Your kids' interest matter. May be your kid is destined to become greatest Painert or Pop Singer. So please give this a chance.
 
 ### Contact
 
@@ -37,6 +37,8 @@ Website Link [https://wrijugh.github.io/python-for-kids/](https://wrijugh.github
 GitHub Repository [https://github.com/wrijugh/python-for-kids](https://github.com/wrijugh/python-for-kids)
 
 Subscribe to the [YouTube Channel](https://www.youtube.com/playlist?list=PLH60I37xI-jmDGHF1S_2ld5Gb7x0tP0Fp)
+
+Facebook page [https://www.facebook.com/CodeKidAll](https://www.facebook.com/CodeKidAll)
 
 ---
 
