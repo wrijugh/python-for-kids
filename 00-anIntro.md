@@ -1,26 +1,24 @@
 # Introduction
 
-Welcome to my class of **Learning Programming for Studnets with Python**.  Let me talk about it and share how I have planned it to execute. We have a daughter of 11 year old and after her exam we’ve introduced her to the website [code.org](http;://code.). After spending a couple of days going through the challenges she showed the interest in the basics of programming language. When the code.org was complete, I was looking for how educators tackle this subject. Mostly they pick up one programming language and teach the basics. There are quite a lot of courses available. I have tried to study how they define the content and deliver it.
+Welcome to my class of **Learning Programming for Studnets with Python**.
 
-I have defined it to keep each class concise and exercise driven. Because of the current situation the class can only happen online. The practical problem of online classes are, as students will not be able to use a single laptop/desktop in a single screen to watch and follow at the same time. This is difficult to do, so I wanted to make it an interactive session in a sense when I talk about it - I will explain the subject with analogy.
+Python is easy and going to stay very long. Investing time on learning Python will not go waste at all. To start learning programming one has to start using some language. Python is right fit. Many A-class instituations today made Python learning mandatory. You will see people now coming from different backgrounds knows Python. It is like learning to use Office products. One day this will just be default.
 
 ## License
 
-This is an open source courseware,  anyone is free to use the content for non commercial purpose.  If you are  using this course and charging money E from students then please don't do so.  I have designed and  created the content from my own experience and the open web resources available across different free learning portal.
-
-## Expectations from the adult seniors around the Kid attending the course
-
-Because kids are the students, we need an adult person to be around to help fix the technical problems like internet connectivity, tool usage and the basic installation process. I will share the steps to create or set up the environment for this class.
-
-This class will be for 30 minutes each day during the weekends. The delivery will be recorded. So that if revision is required students can go back and watch it again.
+This is an open source courseware, anyone is free to use the content for non commercial purpose. If you are  using this course and charging money from students then please don't do so. I have designed and created the content from my own experience and the open web resources available across different free learning portal.
 
 ## A bit of History
 
-During Covid-19 lockdown my 10-year-old daughter finished her class after the final exam. We had a lot of planning which included visiting our hometown and then a lot of other summer activities were planned. We could not do any. Our nice little daughter kind of adjusted to the new normal. However, full of energy to burn out. I decided to let her explore [code.org](http://code.org) and she really enjoyed and finished all of them. Then I was in search of what to teach. As a developer I got an exposure to learn few programming languages and out of all I've picked up **Python** because of its sheer simplicity. Rather than jumping into a lot of object oriented ornaments, it gives the script like experience with all modern programing language constructs. That is why it the popular programming language in colleges.
+During Covid-19 lockdown my 10-year-old daughter finished her class after the final exam. We had a lot of planning which included visiting our hometown and then a lot of other summer activities were planned. We could not do any. Our nice little daughter kind of adjusted to the new normal. However, full of energy to burn out. I decided to let her explore [code.org](http://code.org) and she really enjoyed and finished all of them. Then I was in search of what to teach. As a developer I got an exposure to learn few programming languages and out of all I've picked up **Python** because of its sheer simplicity. Rather than jumping into a lot of object oriented ornaments, it gives the script like experience with all modern programing language constructs. That is why it the popular programming language in colleges. I posted a pic of her coding in Python. It was viral and many approached me on how to start. ![Wrishika Coding](img/wrishika-python.jpg)
+
+I was amazed to see the interest among parents and gurdians for their kids. For Python we have more than enough resources available but not always fit for school students. Hence I decided to come up with a content by myself. But then who will validate it? I thought let me bring in a batch and while delivering them I will keep adding here. So that I know if it matches at par. So finally after enough delay we started Oct 2020 and after 10 classes ended it in 5 Dec 2020.
+
+With a heavy heart I wrote them a closing email. I will miss my first batch. Because they were influencial building this content. But I was happy to see this project took some shape. I hope this would be helpful for others too.
 
 ## In memory of
 
-I am a son of a legendary teacher who has many fan following. I wanted to dedicate this to my Dad Mr. Debajyoti Ghosh. He was an unparalled teacher with many amazing students.
+I am a son of a legendary teacher who has many fan following. I wanted to dedicate this to my dad **Mr. Debajyoti Ghosh**. He was an inspirational legendary science teacher with many amazing students around the globe. I am proud to be his son.
 
 ## Disclaimer
 
