@@ -42,6 +42,11 @@
 
  - [Day 28 : Find Smallest and Largest number(s) from a collection](28-day28.md)
   
+
+## Some video demonstrations
+
+[Visit the video listing page here](python-tutorial-videos.md)
+
 <!-- 
  - [Day 29 : Title](29-day29.md)
  - [Day 30 : Title](30-day30.md) 
