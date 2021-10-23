@@ -1,5 +1,7 @@
 # Python Tutorial Videos
 
+![Banner](img/Python-Tutorial-Banner.png)
+
 ## 01 - String data types
 
 [https://youtu.be/Kni3LNIVMbw](https://youtu.be/Kni3LNIVMbw)
