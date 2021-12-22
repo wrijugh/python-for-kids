@@ -10,26 +10,26 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kni3LNIVMbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 02 - if statement
+## 02 - If Else
 
 [https://youtu.be/Pgrnmnb1AfE](https://youtu.be/Pgrnmnb1AfE)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pgrnmnb1AfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 03 - if statement, for and while loop
+## 03 - If statement, For and While loop
 
 [https://youtu.be/2fwbE80JUzY](https://youtu.be/2fwbE80JUzY)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2fwbE80JUzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 04 - collections and for loop
+## 04 - Collections and for loop
 
 [https://youtu.be/viJDTc0OoKs](https://youtu.be/viJDTc0OoKs)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/viJDTc0OoKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## 05 - function
+## 05 - Function
 
 [https://youtu.be/wpYGK66-Geg](https://youtu.be/wpYGK66-Geg)
 
