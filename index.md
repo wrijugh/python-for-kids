@@ -1,4 +1,6 @@
-# Index
+# Python for Everyone
+
+![banner](img/Python-for-Everyone-Banner.png)
 
 ## Python Programming Fundamentals
 
