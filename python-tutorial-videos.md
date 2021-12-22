@@ -22,6 +22,31 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2fwbE80JUzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## 04 - collections and for loop
+
+[https://youtu.be/viJDTc0OoKs](https://youtu.be/viJDTc0OoKs)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/viJDTc0OoKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## 05 - function
+
+[https://youtu.be/wpYGK66-Geg](https://youtu.be/wpYGK66-Geg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wpYGK66-Geg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 06 - Exception Handling, User Input, Module
+
+[https://youtu.be/JuybQUo4YcI](https://youtu.be/JuybQUo4YcI)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JuybQUo4YcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 07 - Class
+
+[https://youtu.be/vj9C_8lPUZ0](https://youtu.be/vj9C_8lPUZ0)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vj9C_8lPUZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 [Back to Index](index.md)
