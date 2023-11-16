@@ -56,6 +56,10 @@
 <!--
     Class 
     Putting it together by making a calc -->
+
+## Notebook with most of the code
+
+[Jupyter Notebook](python-class.html)
 ---
 ## Websites
 
